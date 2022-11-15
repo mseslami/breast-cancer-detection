@@ -1,0 +1,17 @@
+.idea/
+.ipynb_checkpoints/
+archive.zip
+archive
+BreaKHis_v1
+untitled_project
+venv
+*.gzip
+*.pdf
+*.h5
+Untitled.ipynb
+Folds.csv
+breast-cancer-detection-transformers-cnns.ipynb
+breakhis.ipynb
+breakhis_vecs/
+breakhis_vecs_10k/
+partition.csv
