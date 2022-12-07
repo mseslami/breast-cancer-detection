@@ -1,4 +1,4 @@
-# breast cancer detection
+# Breast Cancer Detection
 
 In this project, we proposed an architecture consisting of 3 modouls: an encoder, a feature selector, and a classifier to achieve high accuracy and f-measure for magnification-independent multi-category (MIM) classification of microscopic biopsy images.
 
